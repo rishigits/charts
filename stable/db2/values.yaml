@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 image:
   repository: na.cumulusrepo.com/db2dg/db2server
-  tag: v11.1.2fp2_nonroot
+  tag: v11.1.2fp2_s390x
   pullPolicy: IfNotPresent 
   secret: ""
 service:
